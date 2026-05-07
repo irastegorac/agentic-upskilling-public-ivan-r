@@ -1,0 +1,10 @@
+{
+  "name": "irastego/new-service",
+  "version": "1.0.0",
+  "summary": "Scaffold a new Java service class with its controller and JUnit 5 test class, following the patterns established in InvoiceService, InvoiceController, and InvoiceServiceTest in the billing-service project.",
+  "skills": {
+    "new-service": {
+      "path": "SKILL.md"
+    }
+  }
+}

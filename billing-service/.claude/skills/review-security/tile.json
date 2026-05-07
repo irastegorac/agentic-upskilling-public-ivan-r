@@ -1,0 +1,10 @@
+{
+  "name": "irastego/review-security",
+  "version": "1.0.0",
+  "summary": "Perform a focused security review of a Java class, checking for mutable secret fields, missing null checks, hardcoded secrets, and cryptographic issues.",
+  "skills": {
+    "review-security": {
+      "path": "SKILL.md"
+    }
+  }
+}
