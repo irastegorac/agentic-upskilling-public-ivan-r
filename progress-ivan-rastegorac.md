@@ -63,12 +63,6 @@ Check off modules as you complete them. Add the completion date next to each ite
 - [x] Module 6: Skills — _Date: 2026-04-28_
 - [x] Module 7: Critical Review of AI Output — _Date: 2026-04-28_
 - [x] Module 8: Workflow Integration & Team Collaboration — _Date: 2026-04-28_
-- [ ] Module 3: Prompt Patterns and Templates — _Date: ___
-- [ ] Module 4: Code Review with AI — _Date: ___
-- [ ] Module 5: Test Generation Workflows — _Date: ___
-- [ ] Module 6: Refactoring with AI Assistance — _Date: ___
-- [ ] Module 7: Managing AI Limitations and Errors — _Date: ___
-- [ ] Intermediate Capstone Exercise — _Date: ___
 
 ### Level 3 — Advanced
 
