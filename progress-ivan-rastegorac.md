@@ -148,6 +148,16 @@ Rate yourself on each skill dimension. Update quarterly or after significant lea
 
 Write brief entries after meaningful learning experiences, difficult problems solved with AI, or insights about your workflow. This is for your own benefit — be honest and specific.
 
+### 2026-04-28 — Završen Level 2 Intermediate
+
+_What happened:_ Prošao sam svih 8 modula L2 i odradio 7 vježbi u Java projektima (payment-service, billing-service, order-service). Kreirao sam dva skilla evaluirana s Tessl CLI-em (new-service 90%, review-security 95%) i postavio sve na GitHub.
+
+_What I learned:_ Najvažniji insight je da Claude konzistentno čita postojeći kod i inferencira konvencije bez eksplicitnih uputa — CLAUDE.md i @ selector dodaju vrijednost samo kad kod ne može sam pokazati pravilo. Plan mode sam predlaže dobre arhitekturalne paterne, ali explicit constraints su neophodni za tvrde zahtjeve. Fajlovi su source of truth, ne conversation historija — /clear na ~40% sprječava degradaciju kvalitete.
+
+_What I will do differently:_ Ranije koristiti plan mode za zadatke koji diraju više fajlova, i reaktivnije ažurirati CLAUDE.md — dodavati entryje odmah kad Claude napravi grešku, ne retroaktivno.
+
+---
+
 ### 2026-04-12 — Završena Level 1 teorija
 
 _What happened:_ Prošao sam kompletnu Foundations teoriju (svih 6 modula) i upoznao se s pristupom korištenja Claude Codea kao tutora, peera i assessora.
