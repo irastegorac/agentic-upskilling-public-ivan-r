@@ -118,16 +118,16 @@ Rate yourself on each skill dimension. Update quarterly or after significant lea
 
 | Skill Dimension | Rating (1-4) | Evidence / Notes | Last Updated |
 |---|---|---|--|
-| **Prompt Engineering** | 1 | Znam napisati osnovni prompt s jasnom strukturom |  |
-| **Context Management** | 1 | Razumijem kontekstni prozor i njegova ograničenja |  |
-| **Output Evaluation** | 1 | Poznajem review checklist i primjenjujem ga |  |
-| **Tool Proficiency** | 1 | Claude Code instaliran, koristim interactive i one-shot mode |  |
-| **Workflow Integration** | 1 | Počinjem integrirati Claude Code u rad |  |
-| **Security Awareness** | 1 | Razumijem osnovne sigurnosne rizike AI-generiranog koda |  |
-| **Testing with AI** | 1 | Znam zatražiti generiranje testova i verificirati rezultate |  |
-| **Architecture & Design** | ___ | _Using AI for system-level design decisions_ |  |
-| **Collaboration & Sharing** | ___ | _Sharing knowledge and prompts with your team_ |  |
-| **Debugging with AI** | 1 | Osnovne debugging vještine s AI pomoći |  |
+| **Prompt Engineering** | 2 | 4-komponentni framework (opis, constraints, primjeri, verifikacija); plan mode za kompleksne zadatke | 2026-04-28 |
+| **Context Management** | 2 | /clear na ~40%, fajlovi su source of truth, CLAUDE.md prenosi odluke između sesija, @ selector | 2026-04-28 |
+| **Output Evaluation** | 2 | 4-layer review (correctness, security, performance, maintainability); review-security skill (95%) | 2026-04-28 |
+| **Tool Proficiency** | 2 | Plan mode, /clear, /compact, skills, CLAUDE.md, Tessl CLI lint i review | 2026-04-28 |
+| **Workflow Integration** | 2 | Claude Code u daily workflow; plan-review-execute ciklus; session planning | 2026-04-28 |
+| **Security Awareness** | 2 | Identificirao security issues u TokenService (non-final key, NPE, crypto); review-security skill | 2026-04-28 |
+| **Testing with AI** | 2 | 70+ testova generiranih i verificiranih; test naming konvencije; verifikacijska instrukcija u promptovima | 2026-04-28 |
+| **Architecture & Design** | 1 | Plan mode za arhitekturalne odluke (AuditLogger interface, constructor injection) | 2026-04-28 |
+| **Collaboration & Sharing** | 2 | 2 skilla u .claude/ (new-service 90%, review-security 95%) commitana u git za tim | 2026-04-28 |
+| **Debugging with AI** | 1 | Osnovno — nije eksplicitno pokriveno u L2 vježbama | 2026-04-28 |
 
 ---
 
