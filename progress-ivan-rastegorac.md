@@ -35,7 +35,7 @@ Record results each time you complete a self-assessment or formal evaluation.
 | Date       | Assessed Level | Assessment Type | Key Strengths | Areas to Improve | Notes |
 |------------|---|---|---|---|---|
 | 2026-04-06 | 1 | Self | _e.g., prompt specificity_ | _e.g., context management_ | Initial self-assessment |
-|            | | | | | |
+| 2026-05-08 | 1 | Certification (AI-evaluated) | Structured prompting, Spring Boot context (92%, Quiz 95%) | Deeper comparative analysis s konkretnim primjerima | Spring Boot Prompting Basics — PASSED |
 
 ---
 
@@ -100,7 +100,7 @@ Track every exercise you complete, what you learned, and what you would do diffe
 | Exercise 5: Context Window Management | L2 | 2026-04-28 | | /clear na ~40%, fajlovi su source of truth; /compact zadržava tok rada, /clear je bolji između nepovezanih zadataka; CLAUDE.md prenosi odluke između sesija | |
 | Exercise 6: Skills | L2 | 2026-04-28 | | Skill dostigao 90% (Description 100%, Content 77%); skill reproducibilno prati konvencije + CLAUDE.md pravila koje ad hoc prompt lako propusti | |
 | Exercise 7: Four-Layer Code Review | L2 | 2026-04-28 | | Claude pronašao sve zasađene greške + 1 bonus (input validation); review-security skill dostigao 95%, nula false positiva na čistom fajlu | |
-| | | | | | |
+| Spring Boot Prompting Basics (L1 cert) | L1 | 2026-05-08 | | Structured prompt (Step 2: 9/10) — entity fields + constructor injection + anotacije | Konkretnija usporedba minimal vs structured outputa |
 
 ---
 
